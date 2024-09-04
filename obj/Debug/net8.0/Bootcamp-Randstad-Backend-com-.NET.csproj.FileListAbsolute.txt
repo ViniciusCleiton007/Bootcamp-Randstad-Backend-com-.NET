@@ -1,0 +1,15 @@
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\bin\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.exe
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\bin\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.deps.json
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\bin\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.runtimeconfig.json
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\bin\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.dll
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\bin\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.pdb
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.sourcelink.json
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.dll
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\refint\Bootcamp-Randstad-Backend-com-.NET.dll
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.pdb
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\Bootcamp-Randstad-Backend-com-.NET.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Desktop\Estudos\Bootcamp-Randstad-Backend-com-.NET\obj\Debug\net8.0\ref\Bootcamp-Randstad-Backend-com-.NET.dll
