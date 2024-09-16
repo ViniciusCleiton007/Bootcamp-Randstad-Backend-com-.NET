@@ -1,4 +1,4 @@
-﻿using Bootcamp_Randstad_Backend_com_.NET.Models;
+﻿using Bootcamp_Randstad_Backend_com_.NET.Common.Models;
 
 //Exemplo de laço de repeição FOR
 
