@@ -6,42 +6,29 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        
+        
+        
+        List<string> listaString = new List<string>();
 
-        string? opcao;
-        bool exibirMenu = true;
+        listaString.Add("SP");
+        listaString.Add("BA");
+        listaString.Add("MG");
 
-        while(exibirMenu){
 
-            Console.WriteLine("Escolha sua opção:");
-            Console.WriteLine("1 - Cadastrar cliente");
-            Console.WriteLine("2 - Buscar cliente");
-            Console.WriteLine("3 - Apagar cliente");
-            Console.WriteLine("4 - Encerrar");
-
-            opcao = Console.ReadLine();
-
-            switch(opcao){
-                case "1":
-                    Console.WriteLine("Cadastrar cliente");
-                    break;
-                case "2":
-                    Console.WriteLine("Buscar cliente");
-                    break;
-                case "3":
-                    Console.WriteLine("Apagar cliente");
-                    break;
-                case "4":
-                    Console.WriteLine("Encerrar");
-                    exibirMenu = false;
-                    // Environment.Exit(0); <--- sai do menu e não executa mais nada fora do while
-                    break;
-                default:
-                    Console.WriteLine("Opção inválida");
-                    break;
-            }
+        Console.WriteLine("percorrendo a lista com for");
+        for(int i = 0; i < listaString.Count; i++){
+            Console.WriteLine($"Posição N° {i} - {listaString[i]}");
         }
 
-        Console.WriteLine("O programa encerrou!");
+
+
+        Console.WriteLine("percorrendo a lista com foreach");
+        int cont = 0;
+        foreach(string item in listaString){
+            Console.WriteLine($"Posição N° {cont} - {item}");
+            cont++;
+        }
         
         
         
@@ -52,9 +39,84 @@ internal class Program
         
         
         
-        
-        
-        
+        // int[] arrayInteiros = new int[3];
+
+        // arrayInteiros[0] = 72;
+        // arrayInteiros[1] = 64;
+        // arrayInteiros[2] = 50;
+
+        // Declarando um novo array com uma capacidade maxima diferente e copiando os dados de um array para o outro
+        // int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+        // Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+
+        // Array.Resize ele é usado para aumentador o valor do array em tempo de execução
+        //Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+        // Console.WriteLine("percorrendo o array com for");
+        // for (int i = 0; i < arrayInteiros.Length; i++){
+        //     Console.WriteLine($"Posição N°{i} - {arrayInteiros[i]}");
+        // }
+
+        // Console.WriteLine("percorrendo o array com foreach");
+        // int cont = 0;
+        // foreach (int valor in arrayInteiros) { 
+        //     Console.WriteLine($"Posição N°{cont} - {valor}");
+        //     cont++;
+        // }
+
+
+
+
+
+
+        // string? opcao;
+        // bool exibirMenu = true;
+
+        // while(exibirMenu){
+
+        //     Console.WriteLine("Escolha sua opção:");
+        //     Console.WriteLine("1 - Cadastrar cliente");
+        //     Console.WriteLine("2 - Buscar cliente");
+        //     Console.WriteLine("3 - Apagar cliente");
+        //     Console.WriteLine("4 - Encerrar");
+
+        //     opcao = Console.ReadLine();
+
+        //     switch(opcao){
+        //         case "1":
+        //             Console.WriteLine("Cadastrar cliente");
+        //             break;
+        //         case "2":
+        //             Console.WriteLine("Buscar cliente");
+        //             break;
+        //         case "3":
+        //             Console.WriteLine("Apagar cliente");
+        //             break;
+        //         case "4":
+        //             Console.WriteLine("Encerrar");
+        //             exibirMenu = false;
+        //             // Environment.Exit(0); <--- sai do menu e não executa mais nada fora do while
+        //             break;
+        //         default:
+        //             Console.WriteLine("Opção inválida");
+        //             break;
+        //     }
+        // }
+
+        // Console.WriteLine("O programa encerrou!");
+
+
+
+
+
+
+
+
+
+
+
+
+
         //Exemplo da estrutura DO WHILE
 
         // int soma = 0, numero = 0;
@@ -78,7 +140,7 @@ internal class Program
         // int numero = int.Parse(Console.ReadLine());
 
         // int cont = 0;
-        
+
         // while (cont <= numero)
         // {
         //     Console.WriteLine($"{tabuada} x {cont} =  {tabuada * cont}");

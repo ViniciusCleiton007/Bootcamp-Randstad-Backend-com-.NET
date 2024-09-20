@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bootcamp-Randstad-Backend-com-.NET/1.0.0": {
+        "dependencies": {
+          "Bootcamp-Randstad-Backend-com-.NET.Common": "1.0.0"
+        },
+        "runtime": {
+          "Bootcamp-Randstad-Backend-com-.NET.dll": {}
+        }
+      },
+      "Bootcamp-Randstad-Backend-com-.NET.Common/1.0.0": {
+        "runtime": {
+          "Bootcamp-Randstad-Backend-com-.NET.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bootcamp-Randstad-Backend-com-.NET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bootcamp-Randstad-Backend-com-.NET.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
